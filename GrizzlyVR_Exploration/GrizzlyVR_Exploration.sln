@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrizzlyVR_Exploration.CSharp.Plugins", "GrizzlyVR_Exploration.CSharp.Plugins.csproj", "{8935BBAF-D0FD-3833-EF83-1C3BB63925B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrizzlyVR_Exploration.CSharp", "GrizzlyVR_Exploration.CSharp.csproj", "{C2129176-9685-A6E7-6DDA-233B625EC6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrizzlyVR_Exploration.CSharp.Editor", "GrizzlyVR_Exploration.CSharp.Editor.csproj", "{F5C85807-FA55-5410-F474-976FF0DE6348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8935BBAF-D0FD-3833-EF83-1C3BB63925B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8935BBAF-D0FD-3833-EF83-1C3BB63925B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8935BBAF-D0FD-3833-EF83-1C3BB63925B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8935BBAF-D0FD-3833-EF83-1C3BB63925B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2129176-9685-A6E7-6DDA-233B625EC6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2129176-9685-A6E7-6DDA-233B625EC6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2129176-9685-A6E7-6DDA-233B625EC6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2129176-9685-A6E7-6DDA-233B625EC6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C85807-FA55-5410-F474-976FF0DE6348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C85807-FA55-5410-F474-976FF0DE6348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C85807-FA55-5410-F474-976FF0DE6348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C85807-FA55-5410-F474-976FF0DE6348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
